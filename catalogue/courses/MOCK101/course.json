@@ -1,0 +1,28 @@
+{
+  "course_id": "MOCK101",
+  "pathway": "software-developer",
+  "title": "Mock Course: Proof of Concept",
+  "description": "A two-lesson course that walks through lesson content, a knowledge check, and a project submission.",
+  "hours": 2,
+  "objectives": [
+    "Explain what GitHub is used for",
+    "Share a repository for instructor review"
+  ],
+  "prerequisites": [],
+  "lessons": [
+    {
+      "lesson_id": "MOCK101-01",
+      "title": "Lesson 1: What Is GitHub?",
+      "order": 1,
+      "kind": "lesson",
+      "hours_estimate": 0.5
+    },
+    {
+      "lesson_id": "MOCK101-02",
+      "title": "Lesson 2: Share Your First Repository",
+      "order": 2,
+      "kind": "project",
+      "hours_estimate": 1.5
+    }
+  ]
+}
